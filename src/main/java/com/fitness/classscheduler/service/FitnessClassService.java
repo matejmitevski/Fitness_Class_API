@@ -80,7 +80,7 @@ public class FitnessClassService {
         dto.setTitle(fc.getTitle());
         dto.setStartTime(fc.getStartTime());
         dto.setEndTime(fc.getEndTime());
-        dto.setInstructorId(fc.getInstructor().getId()); // Updated
+        dto.setInstructorId(fc.getInstructor().getId());
         dto.setCapacity(fc.getCapacity());
         dto.setStatus(fc.getStatus());
         dto.setCanceled(fc.isCanceled());

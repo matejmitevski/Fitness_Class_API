@@ -8,7 +8,7 @@ public class FitnessClassDto {
     private String title;
     private LocalDateTime startTime;
     private LocalDateTime endTime;
-    private Long instructorId; // CHANGED
+    private Long instructorId;
     private Integer capacity;
     private String status;
     private List<Long> attendeeIds;
