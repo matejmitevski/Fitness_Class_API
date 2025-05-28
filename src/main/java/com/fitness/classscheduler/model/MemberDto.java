@@ -1,4 +1,4 @@
-package com.fitness.classscheduler.dto;
+package com.fitness.classscheduler.model;
 
 public class MemberDto {
     public Long id;

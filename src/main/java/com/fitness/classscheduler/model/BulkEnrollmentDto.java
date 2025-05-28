@@ -1,7 +1,6 @@
-package com.fitness.classscheduler.dto;
+package com.fitness.classscheduler.model;
 
 import java.util.List;
-import com.fitness.classscheduler.dto.BulkEnrollmentDto;
 
 
 public class BulkEnrollmentDto {

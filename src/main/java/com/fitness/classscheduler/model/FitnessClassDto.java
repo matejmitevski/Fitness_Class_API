@@ -1,4 +1,4 @@
-package com.fitness.classscheduler.dto;
+package com.fitness.classscheduler.model;
 
 import java.time.LocalDateTime;
 import java.util.List;

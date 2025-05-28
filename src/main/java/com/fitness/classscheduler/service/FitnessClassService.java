@@ -1,6 +1,6 @@
 package com.fitness.classscheduler.service;
 
-import com.fitness.classscheduler.dto.FitnessClassDto;
+import com.fitness.classscheduler.model.FitnessClassDto;
 import com.fitness.classscheduler.model.FitnessClass;
 import com.fitness.classscheduler.model.Instructor;
 import com.fitness.classscheduler.model.User;
@@ -9,7 +9,6 @@ import com.fitness.classscheduler.repository.InstructorRepository;
 import com.fitness.classscheduler.repository.UserRepository;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.jpa.repository.support.SimpleJpaRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;

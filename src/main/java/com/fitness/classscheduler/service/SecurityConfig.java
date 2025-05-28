@@ -1,4 +1,4 @@
-package com.fitness.classscheduler.config;
+package com.fitness.classscheduler.service;
 
 import com.fitness.classscheduler.security.ApiKeyFilter;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;

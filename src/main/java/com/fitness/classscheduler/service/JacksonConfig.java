@@ -1,4 +1,4 @@
-package com.fitness.classscheduler.config;
+package com.fitness.classscheduler.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;

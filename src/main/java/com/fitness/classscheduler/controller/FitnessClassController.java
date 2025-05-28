@@ -1,10 +1,10 @@
 package com.fitness.classscheduler.controller;
 
-import com.fitness.classscheduler.dto.FitnessClassDto;
+import com.fitness.classscheduler.model.FitnessClassDto;
 import com.fitness.classscheduler.model.FitnessClass;
 import com.fitness.classscheduler.model.User;
 import com.fitness.classscheduler.service.FitnessClassService;
-import com.fitness.classscheduler.dto.BulkEnrollmentDto;
+import com.fitness.classscheduler.model.BulkEnrollmentDto;
 import jakarta.validation.Valid;
 import java.util.Map;
 import org.springframework.beans.factory.annotation.Autowired;
